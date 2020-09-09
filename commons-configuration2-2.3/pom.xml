@@ -156,7 +156,7 @@
     </developer>
 
     <developer>
-      <name>J&#xF6;rg Schaible</name>
+      <name>Jörg Schaible</name>
       <id>joehni</id>
       <email>joerg.schaible@gmx.de</email>
       <timezone>+1</timezone>
@@ -214,7 +214,7 @@
     <contributor>
       <name>Jorge Ferrer</name>
       <email>jorge.ferrer@gmail.com</email>
-      <organization></organization>
+      <organization/>
     </contributor>
 
     <contributor>
@@ -397,7 +397,7 @@
     <dependency>
       <groupId>org.yaml</groupId>
       <artifactId>snakeyaml</artifactId>
-      <version>1.21</version>
+      <version>1.26</version>
       <optional>true</optional>
     </dependency>
 
