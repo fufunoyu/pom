@@ -501,7 +501,7 @@
     <dependency>
       <groupId>org.apache.ctakes</groupId>
       <artifactId>ctakes-core</artifactId>
-      <version>3.2.2</version>
+      <version>4.0.0</version>
       <scope>provided</scope>
       <exclusions>
         <exclusion>
@@ -631,7 +631,7 @@
                     </goals>
                   </pluginExecutionFilter>
                   <action>
-                    <execute />
+                    <execute/>
                   </action>
                 </pluginExecution>
                 <pluginExecution>
@@ -644,7 +644,7 @@
                     </goals>
                   </pluginExecutionFilter>
                   <action>
-                    <ignore />
+                    <ignore/>
                   </action>
                 </pluginExecution>
               </pluginExecutions>
