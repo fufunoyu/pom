@@ -372,7 +372,7 @@
             </relocation>
           </relocations>
           <transformers>
-            <transformer />
+            <transformer/>
           </transformers>
           <filters>
             <filter>
@@ -654,7 +654,7 @@
                 </goals>
                 <configuration>
                   <tasks>
-                    <delete />
+                    <delete/>
                   </tasks>
                 </configuration>
               </execution>
@@ -789,7 +789,7 @@
     <dependency>
       <groupId>org.clojure</groupId>
       <artifactId>clojure</artifactId>
-      <version>1.7.0</version>
+      <version>1.11.2</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
