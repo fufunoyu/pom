@@ -44,7 +44,7 @@
     <vorbis.version>0.8</vorbis.version>
     <pdfbox.version>2.0.6</pdfbox.version>
     <jempbox.version>1.8.13</jempbox.version>
-    <netcdf-java.version>4.5.5</netcdf-java.version>
+    <netcdf-java.version>8.0.29</netcdf-java.version>
     <cxf.version>3.0.12</cxf.version>
     <sis.version>0.6</sis.version>
     <!-- used by POI, PDFBox and Jackcess ...try to sync -->
@@ -631,7 +631,7 @@
                     </goals>
                   </pluginExecutionFilter>
                   <action>
-                    <execute />
+                    <execute/>
                   </action>
                 </pluginExecution>
                 <pluginExecution>
@@ -644,7 +644,7 @@
                     </goals>
                   </pluginExecutionFilter>
                   <action>
-                    <ignore />
+                    <ignore/>
                   </action>
                 </pluginExecution>
               </pluginExecutions>
