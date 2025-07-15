@@ -26,7 +26,7 @@
 		<hibernate.artifact>hibernate-entitymanager</hibernate.artifact>
 		<hsqldb1>1.8.0.10</hsqldb1>
 		<jpa>2.0.0</jpa>
-		<openjpa>2.4.1</openjpa>
+		<openjpa>3.0.0</openjpa>
 		<springdata.commons>1.13.9.RELEASE</springdata.commons>
 
 		<sonar.dynamicAnalysis>reuseReports</sonar.dynamicAnalysis>
